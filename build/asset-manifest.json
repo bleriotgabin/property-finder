@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/property-finder/static/css/main.95c2438c.css",
+    "main.js": "/property-finder/static/js/main.29a5470b.js",
+    "static/media/hero.jpg": "/property-finder/static/media/hero.c11a2fd1454d174b3981.jpg",
+    "static/media/spinner.gif": "/property-finder/static/media/spinner.96e125003132ee245374.gif",
+    "static/media/z-logo.svg": "/property-finder/static/media/z-logo.2df326b9c853af2fa70f085b39a1e0de.svg",
+    "index.html": "/property-finder/index.html",
+    "main.95c2438c.css.map": "/property-finder/static/css/main.95c2438c.css.map",
+    "main.29a5470b.js.map": "/property-finder/static/js/main.29a5470b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95c2438c.css",
+    "static/js/main.29a5470b.js"
+  ]
+}
